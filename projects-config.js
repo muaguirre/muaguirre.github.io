@@ -46,10 +46,10 @@ const projects = [
         description: "Proyecto centrado en la gestión de cuentas AWS con buenas prácticas organizativas",
         fullDescription: "Arquitectura multi cuenta con AWS Organizations, ideal para separar entornos, controlar facturación y aplicar políticas centralizadas de seguridad y acceso.",
         image: "imagenes/AWS_Organization.jpg",
-        technologies: ["AWS Organizations", "IAM", "CloudTrail", "Config"],
+        technologies: ["AWS Organizations", "IAM", "CloudTrail", "Terraform", "Config"],
         tags: ["Profesional"],
-        github: "#",
-        demo: "#"
+        github: "https://github.com/muaguirre/aws-multi-account-organization",
+        demo: "https://github.com/muaguirre/aws-multi-account-organization"
     },
     {
         id: 2,
